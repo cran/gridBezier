@@ -1,0 +1,16 @@
+65064a0c757675fdeafa7ba9b6d7d7bf *DESCRIPTION
+77e83b5e204e7c88889b1aa4d2956f21 *NAMESPACE
+447d0406267ee9f915d7fa14b30f8b0b *R/bezier.R
+2d718e8faec08ad088bc8d895fe5a4f7 *R/quad.R
+154e40875f8797c2470e746ae03a8a78 *README.md
+26c80e5cf3adc97353432e0cd19e0589 *inst/NEWS.Rd
+52495d3ca8a5656a09c5fa782cf2bbd4 *man/BezierPoints.Rd
+865da19308a6d39707b698c949613307 *man/grid.Bezier.Rd
+3ac36a141ae4d51b6a76030b3bf9e52e *man/grid.quad.Rd
+bb7c5b6738bf29eef00e7e5505d4e881 *man/nSteps.Rd
+2a5aece4151fde0e9c13ad58ee79ece9 *man/quadPoints.Rd
+5849e0067b9958fb802b366a8d8be7ae *tests/bezier.R
+554735bb57d59d918593b0d79d7081ac *tests/normal.R
+ace5add01894ead85f654a3e5e4e3c4b *tests/quad.R
+7e7a0fbc5bca9795b3d69ebf366b33b2 *tests/range.R
+1058be5f21cef8a180dd5724912df8f0 *tests/tangent.R
